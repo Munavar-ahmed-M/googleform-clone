@@ -64,6 +64,7 @@ form img{
 }
 .form-control:focus{
     border: 1px solid #1B66C9 ;
+    background-color: white;
 }
 .form-control:not(:focus):valid + .form-label{
     top: -10px;
